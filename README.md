@@ -22,5 +22,5 @@ O agente apresentado em questão tem como objetivo informar rotas entre diferent
 <img src='./imgs/arquitetura.png' alt='arquitetura' width='600'> <br/>
 
 ## Exemplo de execução
-<img src='./imgs/exec_scheenshot.png' alt='Screenshot' width='600'> <br/>
+<img src='./imgs/exec_screenshot.png' alt='Screenshot' width='600'> <br/>
 
